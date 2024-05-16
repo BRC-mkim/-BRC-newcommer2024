@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 test1 txt file
+=======
+test1 txt file hihi test2 branch
+
+GUI merge
+>>>>>>> 3cace2e60ab5dbf3292370d3f81123cfcaefa086
